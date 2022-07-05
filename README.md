@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome!  👋
+
+My Name Is Leo Living Headquatered in Miami, FL
 
 <!--
 **SharpSight44/SharpSight44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +14,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Vegan
 -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharpSight44&theme=tokyonight)
+
+⚡ Fun facts: Vegan/Plant Based, Ran Chicago Marathon!🎽

@@ -1,6 +1,6 @@
 ### Welcome!  👋
 
-My Name Is Leo Living Headquatered in Miami, FL
+My Name Is Leo From Beautiful Miami, FL
 
 <!--
 **SharpSight44/SharpSight44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

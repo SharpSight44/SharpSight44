@@ -32,6 +32,6 @@
 
 ### 📫 Connect
 
-📸 Instagram — [@Miami_AI_life](https://www.instagram.com/miami_ai_life) · ▶️ YouTube — [@Miami_AI_Life](https://www.youtube.com/@Miami_AI_Life) · 💼 LinkedIn — [Leo Estrella](https://www.linkedin.com/in/leo-estrella)
+📸 Instagram — [@Miami_AI_life](https://www.instagram.com/miami_ai_life) · ▶️ YouTube — [@Miami_AI_Life](https://www.youtube.com/@Miami_AI_Life) · 💼 LinkedIn — [Leo Estrella](https://www.linkedin.com/in/leo-estrella-2a9914231/)
 
 ⚡ Fun fact: Vegan 🌱
